@@ -3,7 +3,7 @@ The design process begins with determining the area of the throat. The throat sh
 </p>
 <br>
 <br>
-<p style="text-align: center;">
+<p align="center">
 <img width="473" height="117" alt="Screenshot 2026-02-22 at 2 44 36 PM" src="https://github.com/user-attachments/assets/16e58e77-f37e-4d23-8d19-6f9c88fca788" />
 </p>
 <br>

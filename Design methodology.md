@@ -1,0 +1,3 @@
+The design process begins with determining the area of the throat. Based on Eqn 13.136 in 
+https://engineering.purdue.edu/~wassgren/teaching/ME30800/NotesAndReading/CompressibleFlow_ConvergingNozzle_Reading.pdf, 
+a throat diameter was chosen for the desired mass flow rate. 
